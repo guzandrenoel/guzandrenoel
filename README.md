@@ -36,7 +36,6 @@ Right now I’m focused on **Dev Basics** (HTML/CSS/JS + APIs + Git), then movin
 ### 🕶️ GitHub Stats
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzandrenoel&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guzandrenoel&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guzandrenoel&theme=tokyonight&border_radius=5)
 

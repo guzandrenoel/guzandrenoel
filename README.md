@@ -5,15 +5,15 @@ Right now I’m focused on **Dev Basics** (HTML/CSS/JS + APIs + Git), then movin
 
 ---
 
-## 🎯 Current Focus
-- ✅ Dev Basics: HTML • CSS • JavaScript
-- ✅ Web Fundamentals: HTTP • JSON • REST APIs
-- ✅ Tools: Git • GitHub • Postman (soon)
-- 🔜 Next: Networking refresh → SOC basics → Aruba / Palo Alto / Fortinet
+## Current Focus
+- Dev Basics: HTML • CSS • JavaScript
+- Web Fundamentals: HTTP • JSON • REST APIs
+- Tools: Git • GitHub • Postman (soon)
+- Next: Networking refresh → SOC basics → Aruba / Palo Alto / Fortinet
 
 ---
 
-## 🧭 Learning Roadmap (What I’m building)
+## Learning Roadmap (What I’m building)
 ### Phase 1 — Dev Basics (now)
 - [ ] Week 1: HTML fundamentals + semantic structure  
 - [ ] Week 2: CSS (Flexbox/Grid) + responsive layout  

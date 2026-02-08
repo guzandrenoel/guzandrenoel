@@ -7,29 +7,6 @@ I prioritize **learning by doing**. Each repository includes notes, screenshots,
 
 ---
 
-## Technical Skills (Growing)
-
-### Development Basics
-- HTML, CSS, JavaScript  
-- HTTP, JSON  
-- Basic React concepts (components, state, props)
-
-### Tools & Workflow
-- Git, GitHub  
-- VS Code  
-- Postman (API testing – learning)
-
-### Systems
-- Linux fundamentals (CLI, permissions, services)  
-- Windows fundamentals (OS and networking basics)
-
-### Networking & Security Interests
-- Networking fundamentals (VLANs, routing concepts)  
-- Firewall fundamentals and security policies  
-- SOC basics (logs, traffic analysis, incident concepts)
-
----
-
 ## Pinned Projects
 
 My pinned repositories contain:
@@ -39,15 +16,6 @@ My pinned repositories contain:
 - Continuous updates as my skills improve
 
 These projects reflect my progress across development, networking, and cybersecurity foundations.
-
----
-
-## Currently Working On
-- Strengthening JavaScript and React fundamentals  
-- Building mobile apps using React Native (Expo)  
-- Practicing networking labs and troubleshooting  
-- Learning security tools and log analysis  
-- Improving documentation and Git workflow
 
 ---
 

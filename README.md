@@ -7,15 +7,22 @@ I prioritize **learning by doing**. Each repository includes notes, screenshots,
 
 ---
 
-## Pinned Projects
+### Tech Stack
 
-My pinned repositories contain:
-- Labs and learning notes  
-- Small but complete projects  
-- Clear documentation with screenshots  
-- Continuous updates as my skills improve
+**Languages:**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java" />
+</p>
 
-These projects reflect my progress across development, networking, and cybersecurity foundations.
+**Frontend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+**Backend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,supabase,sql" />
+</p>
 
 ---
 

@@ -21,7 +21,7 @@ I prioritize **learning by doing**. Each repository includes notes, screenshots,
 
 **Backend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,supabase,sql" />
+  <img src="https://skillicons.dev/icons?i=javascript,supabase,mysql" />
 </p>
 
 ---

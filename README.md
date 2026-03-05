@@ -11,7 +11,7 @@ I prioritize **learning by doing**. Each repository includes notes, screenshots,
 
 **Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript" />
 </p>
 
 **Frontend:**

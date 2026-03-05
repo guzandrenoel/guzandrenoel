@@ -16,12 +16,12 @@ I prioritize **learning by doing**. Each repository includes notes, screenshots,
 
 **Frontend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 **Backend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,supabase,mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql" />
 </p>
 
 ---

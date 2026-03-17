@@ -3,8 +3,6 @@
 Hi, I’m **Andre** — a **3rd Year IT student** preparing for internships and entry-level roles.  
 I focus on building strong fundamentals in **development, networking, cybersecurity, and IT operations** through hands-on labs, projects, and documentation.
 
-I prioritize **learning by doing**. Each repository includes notes, screenshots, and clear READMEs to show both process and results.
-
 ---
 
 ### Tech Stack

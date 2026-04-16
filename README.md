@@ -1,8 +1,5 @@
 ## Work in Progress
 
-Hi, I’m **Andre** — a **3rd Year IT student** preparing for internships and entry-level roles.  
-I focus on building strong fundamentals in **development, networking, cybersecurity, and IT operations** through hands-on labs, projects, and documentation.
-
 ---
 
 ### Tech Stack

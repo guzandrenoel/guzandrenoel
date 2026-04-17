@@ -24,8 +24,8 @@
 ### GitHub Statistics
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guzandrenoel&show_icons=true&theme=dark&hide_border=true&rank_icon=github" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzandrenoel&layout=compact&theme=dark&hide_border=true" width="44%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=guzandrenoel&show_icons=true&theme=dark&hide_border=true&rank_icon=github" width="48%" />
   </p>
 </details>
 

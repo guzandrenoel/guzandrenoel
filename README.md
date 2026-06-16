@@ -23,7 +23,7 @@
 
 ### GitHub Statistics
   <br />
-<p align="center">
+<p 
   <img
     src="https://github-readme-stats.vercel.app/api?username=guzandrenoel&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
     width="47%"

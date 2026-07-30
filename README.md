@@ -18,7 +18,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=supabase,mysql" />
 </p>
-
----
-
-![Batman](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5kbHJweTk0ajR2M2dneHl3cHoxcmhoam5lamdiM2k0a21zNmM1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14bhmZtBNhVnIk/giphy.gif)

@@ -1,7 +1,5 @@
 ## Work in Progress
 
-> Learning, building, and improving one project at a time.
-
 ---
 
 ### Tech Stack

@@ -14,16 +14,13 @@
 **Web and Mobile:**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, and React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
-React • React Native • Expo
 
 **Backend and Databases:**
 <p>
   <img src="https://skillicons.dev/icons?i=supabase,mysql" alt="Supabase and MySQL" />
 </p>
 
-**Tools:**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
-</p>
